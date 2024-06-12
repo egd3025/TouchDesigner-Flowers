@@ -1,6 +1,6 @@
 # TouchDesigner Flowers Project
 
-This is an immersive project of floating flowers that was made with Touch Designer
+This is an immersive and **interactive** project of floating flowers that was made with Touch Designer
 
 Inspired by [Hana Fubuki ](https://www.youtube.com/watch?v=ADtM2_awSj8) by Akiko Yamashita
 
@@ -9,3 +9,4 @@ Inspired by [Hana Fubuki ](https://www.youtube.com/watch?v=ADtM2_awSj8) by Akiko
 
 ## Flower Display Issues NOTE:
 Images of each flower might have to be relinked due to unique download placements onto each personal computer
+A high functioning computer is required to run the project, along wiith a kinect and its respective plug in
